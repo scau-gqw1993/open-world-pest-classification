@@ -1,4 +1,4 @@
-# open-world-pest-classification
+# 开放世界害虫图像分类
 使用Matching/Prototype network实现开放世界害虫识别
 
 # 骨干网络
